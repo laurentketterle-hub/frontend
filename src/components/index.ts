@@ -33,4 +33,8 @@ export type {
 } from './FormField'
 export { Sparkline } from './Sparkline'
 export type { SparklineProps } from './Sparkline'
+export { ReferralShareLink } from './ReferralShareLink'
+export type { ReferralShareLinkProps } from './ReferralShareLink'
+export { ReferralDashboard } from './ReferralDashboard'
+export type { ReferralDashboardProps } from './ReferralDashboard'
 export * from './icons'
